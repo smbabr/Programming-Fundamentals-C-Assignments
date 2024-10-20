@@ -10,24 +10,22 @@ Table of Contents
 
 (3) Getting Started
 
-(4) Usage
-
-(5) Contributing
-
-(6) License
 
 
 
-. Introduction
+
+ Introduction :
 
 This repository is intended to help learners understand the fundamentals of C programming through practical examples. The assignments cover a range of topics, including input/output, control structures, functions, arrays, and more.
 
 
 
-. Assignments
+ Assignments :
+
+
 Assignment 1: Basic PrintF and ScanF Concepts
 
-Getting Started
+Getting Started :
 
 To run the programs in this repository, you'll need to have a C compiler installed on your machine. Here are the steps to get started:
 
