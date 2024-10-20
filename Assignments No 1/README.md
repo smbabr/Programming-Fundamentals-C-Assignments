@@ -20,15 +20,19 @@ Concepts Used:
 
 Input and Output:
 Utilized functions like scanf and printf for effective user interaction.
+
 Variables:
 
 Defined various types of variables (integers and floats) to store data and results.
+
 Arithmetic Operations:
 
 Implemented basic operations like addition and multiplication to perform calculations.
+
 Data Types:
 
 Understanding the distinction between integers and floating-point numbers is crucial for accurate computations.
+
 Structure of a C Program:
 
 Each program demonstrates the essential components of a C program, including the main function and return types.
