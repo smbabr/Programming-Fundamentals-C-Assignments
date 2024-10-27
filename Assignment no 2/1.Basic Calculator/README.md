@@ -53,3 +53,28 @@ int main() {
 
     return 0;
 }
+```
+## How to Use
+
+1. Clone this repository to your local machine.
+
+2. Compile the program.
+
+3. Run the program
+
+4. Follow the prompts to enter the first number, an operator, and the second number.
+
+5.  View the result!
+
+   ## Example Usage
+   ```c
+ Enter first number: 5
+Enter an operator (+, -, *, /): *
+Enter second number: 3
+Result: 15.00
+   ```
+## Notes
+
+1. This program includes basic error handling for division by zero.
+
+2. Only supports the four main arithmetic operations: addition, subtraction, multiplication, and division.
