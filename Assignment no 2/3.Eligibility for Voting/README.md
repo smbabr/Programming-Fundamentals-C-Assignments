@@ -19,11 +19,11 @@ Write a program that:
 int main() {
     int age;
 
-    // Input: Taking the age as input from the user
+    
     printf("Enter your age: ");
     scanf("%d", &age);
 
-    // Process and Output: Checking voting eligibility
+
     if (age >= 18) {
         printf("You are eligible to vote.\n");
     } else {
