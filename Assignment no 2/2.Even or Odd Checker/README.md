@@ -39,15 +39,10 @@ int main() {
 
 2. Compile the program.
 
-```bash
-gcc even_odd_checker.c -o even_odd_checker
-```
 3. Run the program
 
-```bash
-./even_odd_checker
-```
 4. Follow the prompt to enter an integer.
+
 5. View the result showing whether the number is even or odd.
 
 ## Example Usage
