@@ -1,4 +1,4 @@
-# Temperature Converter
+# (3) Temperature Converter
 
 This  contains a C program that reads a temperature value in Celsius from the keyboard and displays its equivalent temperature in Fahrenheit. The program demonstrates the use of basic concepts such as variables, operators, and input/output functions (`scanf` and `printf`).
 
