@@ -11,14 +11,14 @@ This repository includes all my assignments in C, organized by topic to reflect 
 Here’s a quick look at some of the topics I’ve covered:
 
 - **Basic Input & Output**: Using `printf` and `scanf` for basic user interactions.
-- **Control Structures**: Mastering `if-else`, `switch`, and loops to control program flow.
+- **Control Structures**: Mastering `if-else`, `switch`, and `loops` to control program flow.
 - **Functions**: Writing reusable blocks of code to keep things clean and organized.
 - **Arrays and Pointers**: Getting hands-on with data structures and memory management.
 - **Operators**: Arithmetic, relational, and logical operators that make the magic happen.
 
 ## 📂 Assignments
 
-Each assignment folder is clearly labeled (e.g., `Assignment no 1`, `Assignment no 2`, etc.) and contains a README describing the objectives and concepts behind each task. The assignments range from simple calculations to more complex logic-based problems, with each task pushing my understanding of C a little further.
+Each assignment folder is clearly labeled (e.g., `01.Assignment `, `02.Assignment`, etc.) and contains a README describing the objectives and concepts behind each task. The assignments range from simple calculations to more complex logic-based problems, with each task pushing my understanding of C a little further.
 
 ## 🚀 Highlights
 
